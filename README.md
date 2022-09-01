@@ -17,3 +17,10 @@ You can add your own CSS to `style.css`, and JavaScript to `script.js`! For furt
 
 If you are in a program that has not yet used `npm` or `node` for a workshop yet, opening `index.html` in your VSCode editor (or editor of your choice) and simply working on the files should work perfectly well.
 # Pixelate-workshop
+
+
+The object of this workshop: 
+1. Learning how to select elements from the DOM. 
+2. Learning how to use eventListener. 
+3. Learning how to use event, event.target, and event.target.value. 
+4. Learning how to use event delegation. 
