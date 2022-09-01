@@ -16,3 +16,4 @@ You can add your own CSS to `style.css`, and JavaScript to `script.js`! For furt
 ## A Note on These Instructions
 
 If you are in a program that has not yet used `npm` or `node` for a workshop yet, opening `index.html` in your VSCode editor (or editor of your choice) and simply working on the files should work perfectly well.
+# Pixelate-workshop
